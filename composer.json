@@ -1,0 +1,15 @@
+{
+    "name": "equipo4/practica",
+    "description": "{Practica de Encriptación",
+    "autoload": {
+        "psr-4": {
+            "Equipo4\\Practica\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Equipo 4"
+        }
+    ],
+    "require": {}
+}
