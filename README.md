@@ -1,19 +1,25 @@
-# Encriptar-Desencriptar
+# 🎨 Encriptar-Desencriptar
 
-Este proyecto es una aplicación en PHP diseñada para realizar operaciones de encriptación y desencriptación de datos. Utiliza algoritmos de cifrado para proteger información sensible y permite su recuperación mediante desencriptación.
+Este proyecto es una aplicación en **PHP** diseñada para realizar operaciones de **encriptación** y **desencriptación** de datos. Utiliza algoritmos de cifrado para proteger información sensible y permite su recuperación mediante desencriptación.
 
-## Características
-- Implementación de encriptación simétrica y asimétrica.
-- Uso de algoritmos seguros para proteger datos.
-- Integración con bases de datos mediante SQL.
+---
 
-## Requisitos previos
+## ✨ Características
+- 🔒 **Encriptación simétrica y asimétrica**.
+- 🛡️ Uso de algoritmos seguros para proteger datos.
+- 🗄️ Integración con bases de datos mediante SQL.
+
+---
+
+## 📋 Requisitos previos
 - **PHP**: Versión 7.4 o superior.
 - **Composer**: Para gestionar las dependencias del proyecto.
 - **Servidor web**: Apache o Nginx.
 - **Base de datos**: MySQL o compatible.
 
-## Instalación
+---
+
+## 🚀 Instalación
 
 1. **Clonar el repositorio**:
    ```bash
@@ -44,18 +50,26 @@ Este proyecto es una aplicación en PHP diseñada para realizar operaciones de e
      ```
    - O configurar un servidor web como Apache o Nginx.
 
-## Uso
+---
+
+## 🛠️ Uso
 - Acceder a la aplicación desde el navegador en `http://localhost:8000` (o la URL configurada).
 - Seguir las instrucciones en la interfaz para encriptar o desencriptar datos.
 
-## Estructura del proyecto
+---
+
+## 📂 Estructura del proyecto
 - `index.php`: Punto de entrada de la aplicación.
 - `src/`: Contiene el código fuente principal.
 - `algoritmo.sql`: Archivo SQL para la configuración de la base de datos.
 - `composer.json`: Archivo de configuración de dependencias.
 
-## Contribuciones
+---
+
+## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, abre un issue o envía un pull request para sugerir mejoras o reportar problemas.
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
+---
+
+## 📜 Licencia
+Este proyecto está licenciado bajo la **Licencia MIT**.
